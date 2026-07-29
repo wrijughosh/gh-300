@@ -4,7 +4,7 @@ https://learn.microsoft.com/en-us/credentials/certifications/resources/study-gui
 ## Use GitHub Copilot responsibly (15–20%)
 ### Understand responsible AI principles
 - Describe risks and limitations of Generative AI tools
-    Link
+
 - Describe ethical and responsible AI usage
 
 - Identify potential harms and mitigation strategies of AI usage
@@ -12,7 +12,6 @@ https://learn.microsoft.com/en-us/credentials/certifications/resources/study-gui
 ### Validate and operate AI tools
 - Explain the need to validate AI output
 
-    [] Link
 - Identify how to operate GitHub Copilot responsibly
 
 ## Use GitHub Copilot features (25–30%)
