@@ -107,7 +107,8 @@ https://learn.microsoft.com/en-us/credentials/certifications/resources/study-gui
   https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/
 
 ### Craft effective prompts
-Study links:
+
+
   https://docs.github.com/en/copilot/using-github-copilot/prompt-engineering-for-github-copilot
   https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/
 
@@ -120,7 +121,8 @@ Study links:
 - Apply best practices for prompt crafting
 
 ### Engineer prompts for performance
-Study links:
+
+
   https://docs.github.com/en/copilot/using-github-copilot/prompt-engineering-for-github-copilot
   https://learn.microsoft.com/en-us/training/modules/generate-documentation-using-github-copilot-tools/
 
@@ -129,12 +131,14 @@ Study links:
 - Describe prompt process flow and chat history usage
 
 ## Improve developer productivity with GitHub Copilot (10–15%)
-Study links:
+
+
   https://learn.microsoft.com/en-us/training/modules/develop-code-features-using-github-copilot-tools/
   https://docs.github.com/en/copilot/using-github-copilot
 
 ### Enhance productivity and code quality
-Study links:
+
+
   https://learn.microsoft.com/en-us/training/modules/develop-code-features-using-github-copilot-tools/
   https://learn.microsoft.com/en-us/training/modules/generate-documentation-using-github-copilot-tools/
 
@@ -145,7 +149,8 @@ Study links:
 - Generate sample data and modernize legacy code
 
 ### Support testing and security
-Study links:
+
+
   https://docs.github.com/en/copilot/responsible-use-of-github-copilot-features
   https://docs.github.com/en/copilot/using-github-copilot/best-practices-for-using-github-copilot
 
@@ -156,12 +161,14 @@ Study links:
 - Suggest security improvements and performance optimizations
 
 ## Configure privacy, content exclusions, and safeguards (10–15%)
-Study links:
+
+
   https://docs.github.com/en/copilot/reference/github-copilot-data-privacy
   https://docs.github.com/en/copilot/managing-copilot/configuring-and-auditing-content-exclusion
 
 ### Manage privacy settings and exclusions
-Study links:
+
+
  https://docs.github.com/en/copilot/managing-copilot/configuring-and-auditing-content-exclusion
  https://docs.github.com/en/copilot/managing-copilot/configuring-github-copilot-in-your-environment
 
@@ -170,7 +177,8 @@ Study links:
 - Describe ownership and limitations of outputs
 
 ## Apply safeguards and troubleshoot
-Study links:
+
+
   https://docs.github.com/en/copilot/managing-copilot/configuring-github-copilot-in-your-environment
   https://docs.github.com/en/copilot/using-github-copilot/troubleshooting-issues-with-github-copilot
 
