@@ -2,12 +2,12 @@
 https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/gh-300 
 
 ## Use GitHub Copilot responsibly (15–20%)
-Study links:
+
   https://docs.github.com/en/copilot/responsible-use-of-github-copilot-features
   https://docs.github.com/en/copilot/using-github-copilot/best-practices-for-using-github-copilot
 
 ### Understand responsible AI principles
-Study links:
+
   https://docs.github.com/en/copilot/responsible-use-of-github-copilot-features
   https://learn.microsoft.com/en-us/azure/ai-foundry/responsible-ai/responsible-ai-overview
 
@@ -18,7 +18,6 @@ Study links:
 - Identify potential harms and mitigation strategies of AI usage
 
 ### Validate and operate AI tools
-Study links:
   https://docs.github.com/en/copilot/using-github-copilot/best-practices-for-using-github-copilot
   https://docs.github.com/en/copilot/managing-copilot/configuring-github-copilot-in-your-environment
 
@@ -27,12 +26,10 @@ Study links:
 - Identify how to operate GitHub Copilot responsibly
 
 ## Use GitHub Copilot features (25–30%)
-Study links:
   https://docs.github.com/en/copilot
   https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/
 
 ### Use GitHub Copilot in the IDE
-Study links:
   https://docs.github.com/en/copilot/using-github-copilot/getting-code-suggestions-in-your-ide-with-github-copilot
   https://docs.github.com/en/copilot/using-github-copilot/using-github-copilot-chat-in-your-ide
 
@@ -43,7 +40,6 @@ Study links:
 - Configure content exclusions for specific files or repositories (app knowledge)
 
 ### Use GitHub Copilot CLI
-Study links:
   https://docs.github.com/en/copilot
   https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/
 
@@ -58,7 +54,6 @@ Study links:
 - Generate scripts and manage files with GitHub Copilot CLI
 
 ### Use GitHub Copilot features and capabilities
-Study links:
   https://docs.github.com/en/copilot/using-github-copilot/prompt-engineering-for-github-copilot
   https://learn.microsoft.com/en-us/training/modules/develop-code-features-using-github-copilot-tools/
 
@@ -71,7 +66,7 @@ Study links:
 - Understand the limits, options, feedback, and commands of GitHub Copilot Chat; include prompt file reuse for consistent responses
 
 ### Manage organization-wide settings and policies
-Study links:
+
   https://docs.github.com/en/copilot/managing-copilot/managing-github-copilot-for-your-organization
   https://docs.github.com/en/rest/copilot
   https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise
@@ -83,12 +78,11 @@ Study links:
 - Manage subscriptions using the REST API
 
 ## Understand GitHub Copilot data and architecture (10–15%)
-Study links:
   https://docs.github.com/en/copilot/reference/github-copilot-data-privacy
   https://docs.github.com/en/copilot/reference/terms-for-github-copilot
 
 ### Describe data handling and flow
-Study links:
+
   https://docs.github.com/en/copilot/reference/github-copilot-data-privacy
   https://docs.github.com/en/copilot/reference/terms-for-github-copilot
 
@@ -99,7 +93,7 @@ Study links:
 - Explain proxy filtering and post-processing
 
 ### Understand lifecycle and limitations
-Study links:
+
   https://docs.github.com/en/copilot/responsible-use-of-github-copilot-features
   https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/
 
@@ -108,7 +102,7 @@ Study links:
 - Describe limitations of LLMs and Copilot
 
 ## Apply prompt engineering and context crafting (10–15%)
-Study links:
+
   https://docs.github.com/en/copilot/using-github-copilot/prompt-engineering-for-github-copilot
   https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/
 
