@@ -19,6 +19,7 @@ https://learn.microsoft.com/en-us/credentials/certifications/resources/study-gui
 
 ### Validate and operate AI tools
   https://docs.github.com/en/copilot/using-github-copilot/best-practices-for-using-github-copilot
+
   https://docs.github.com/en/copilot/managing-copilot/configuring-github-copilot-in-your-environment
 
 - Explain the need to validate AI output
@@ -27,10 +28,12 @@ https://learn.microsoft.com/en-us/credentials/certifications/resources/study-gui
 
 ## Use GitHub Copilot features (25–30%)
   https://docs.github.com/en/copilot
+
   https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/
 
 ### Use GitHub Copilot in the IDE
   https://docs.github.com/en/copilot/using-github-copilot/getting-code-suggestions-in-your-ide-with-github-copilot
+
   https://docs.github.com/en/copilot/using-github-copilot/using-github-copilot-chat-in-your-ide
 
 - Enable Copilot in the IDE
@@ -40,7 +43,9 @@ https://learn.microsoft.com/en-us/credentials/certifications/resources/study-gui
 - Configure content exclusions for specific files or repositories (app knowledge)
 
 ### Use GitHub Copilot CLI
+
   https://docs.github.com/en/copilot
+
   https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/
 
 - Define GitHub Copilot CLI and how it benefits developers
@@ -55,6 +60,7 @@ https://learn.microsoft.com/en-us/credentials/certifications/resources/study-gui
 
 ### Use GitHub Copilot features and capabilities
   https://docs.github.com/en/copilot/using-github-copilot/prompt-engineering-for-github-copilot
+
   https://learn.microsoft.com/en-us/training/modules/develop-code-features-using-github-copilot-tools/
 
 - Use Agent Mode, Copilot Edits, and MCP for enhanced development and workflows; manage Agent Sessions and delegate tasks to Sub‑Agents for optimized context usage
@@ -68,7 +74,9 @@ https://learn.microsoft.com/en-us/credentials/certifications/resources/study-gui
 ### Manage organization-wide settings and policies
 
   https://docs.github.com/en/copilot/managing-copilot/managing-github-copilot-for-your-organization
+
   https://docs.github.com/en/rest/copilot
+
   https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise
 
 - Configure organization-wide policy management; enable Copilot Code Review policies and manage feature availability across IDEs and github.com
@@ -79,11 +87,14 @@ https://learn.microsoft.com/en-us/credentials/certifications/resources/study-gui
 
 ## Understand GitHub Copilot data and architecture (10–15%)
   https://docs.github.com/en/copilot/reference/github-copilot-data-privacy
+
   https://docs.github.com/en/copilot/reference/terms-for-github-copilot
+
 
 ### Describe data handling and flow
 
   https://docs.github.com/en/copilot/reference/github-copilot-data-privacy
+
   https://docs.github.com/en/copilot/reference/terms-for-github-copilot
 
 - Explain data usage, flow, and sharing
@@ -95,6 +106,7 @@ https://learn.microsoft.com/en-us/credentials/certifications/resources/study-gui
 ### Understand lifecycle and limitations
 
   https://docs.github.com/en/copilot/responsible-use-of-github-copilot-features
+
   https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/
 
 - Visualize code suggestion lifecycle
@@ -104,12 +116,14 @@ https://learn.microsoft.com/en-us/credentials/certifications/resources/study-gui
 ## Apply prompt engineering and context crafting (10–15%)
 
   https://docs.github.com/en/copilot/using-github-copilot/prompt-engineering-for-github-copilot
+
   https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/
 
 ### Craft effective prompts
 
 
   https://docs.github.com/en/copilot/using-github-copilot/prompt-engineering-for-github-copilot
+
   https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/
 
 - Describe prompt structure and context
@@ -124,6 +138,7 @@ https://learn.microsoft.com/en-us/credentials/certifications/resources/study-gui
 
 
   https://docs.github.com/en/copilot/using-github-copilot/prompt-engineering-for-github-copilot
+
   https://learn.microsoft.com/en-us/training/modules/generate-documentation-using-github-copilot-tools/
 
 - Explain prompt engineering principles
@@ -134,12 +149,14 @@ https://learn.microsoft.com/en-us/credentials/certifications/resources/study-gui
 
 
   https://learn.microsoft.com/en-us/training/modules/develop-code-features-using-github-copilot-tools/
+
   https://docs.github.com/en/copilot/using-github-copilot
 
 ### Enhance productivity and code quality
 
 
   https://learn.microsoft.com/en-us/training/modules/develop-code-features-using-github-copilot-tools/
+
   https://learn.microsoft.com/en-us/training/modules/generate-documentation-using-github-copilot-tools/
 
 - Use Copilot for code generation, refactoring, and documentation
@@ -152,6 +169,7 @@ https://learn.microsoft.com/en-us/credentials/certifications/resources/study-gui
 
 
   https://docs.github.com/en/copilot/responsible-use-of-github-copilot-features
+
   https://docs.github.com/en/copilot/using-github-copilot/best-practices-for-using-github-copilot
 
 - Generate unit and integration tests
@@ -164,12 +182,14 @@ https://learn.microsoft.com/en-us/credentials/certifications/resources/study-gui
 
 
   https://docs.github.com/en/copilot/reference/github-copilot-data-privacy
+
   https://docs.github.com/en/copilot/managing-copilot/configuring-and-auditing-content-exclusion
 
 ### Manage privacy settings and exclusions
 
 
  https://docs.github.com/en/copilot/managing-copilot/configuring-and-auditing-content-exclusion
+
  https://docs.github.com/en/copilot/managing-copilot/configuring-github-copilot-in-your-environment
 
 - Configure content exclusions and editor settings
@@ -178,8 +198,8 @@ https://learn.microsoft.com/en-us/credentials/certifications/resources/study-gui
 
 ## Apply safeguards and troubleshoot
 
-
   https://docs.github.com/en/copilot/managing-copilot/configuring-github-copilot-in-your-environment
+
   https://docs.github.com/en/copilot/using-github-copilot/troubleshooting-issues-with-github-copilot
 
 - Enable suggestions matching public code filtering
